@@ -1,7 +1,7 @@
 # manim-anim
 manim is the mathematical animation package used for 3Blue1Brown videos. 
 
-Animations have been used in my blog on metric learning. 
+Animations have been used in my [blog on metric learning](https://medium.com/vlgiitr/metric-learning-its-all-about-the-distance-143a199ab7a5) . 
 
 Recommended References: 
 1. https://github.com/3b1b/manim
